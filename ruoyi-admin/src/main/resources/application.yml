@@ -70,13 +70,13 @@ spring:
   # redis 配置
   redis:
     # 地址
-    host: localhost
+    host: 101.91.230.92
     # 端口，默认为6379
-    port: 6379
+    port: 9736
     # 数据库索引
-    database: 0
+    database: 9
     # 密码
-    password: 
+    password: redis.mengyuanyun
     # 连接超时时间
     timeout: 10s
     lettuce:
