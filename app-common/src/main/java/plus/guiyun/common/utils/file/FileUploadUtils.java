@@ -18,7 +18,7 @@ import plus.guiyun.common.utils.uuid.Seq;
 /**
  * 文件上传工具类
  *
- * @author ruoyi
+ * @author guiyun
  */
 public class FileUploadUtils
 {

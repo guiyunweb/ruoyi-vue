@@ -27,7 +27,7 @@ import plus.guiyun.framework.datasource.DynamicDataSource;
 /**
  * druid 配置多数据源
  * 
- * @author ruoyi
+ * @author guiyun
  */
 @Configuration
 public class DruidConfig

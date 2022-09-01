@@ -6,7 +6,7 @@ import plus.guiyun.common.utils.StringUtils;
 /**
  * 基础异常
  * 
- * @author ruoyi
+ * @author guiyun
  */
 public class BaseException extends RuntimeException
 {

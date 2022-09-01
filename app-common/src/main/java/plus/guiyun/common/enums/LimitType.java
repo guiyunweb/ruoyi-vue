@@ -3,7 +3,7 @@ package plus.guiyun.common.enums;
 /**
  * 限流类型
  *
- * @author ruoyi
+ * @author guiyun
  */
 
 public enum LimitType

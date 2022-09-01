@@ -12,7 +12,7 @@ import plus.guiyun.common.core.domain.BaseEntity;
 /**
  * 菜单权限表 sys_menu
  * 
- * @author ruoyi
+ * @author guiyun
  */
 public class SysMenu extends BaseEntity
 {

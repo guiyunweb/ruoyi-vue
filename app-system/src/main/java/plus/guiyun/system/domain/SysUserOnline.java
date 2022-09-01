@@ -3,7 +3,7 @@ package plus.guiyun.system.domain;
 /**
  * 当前在线会话
  * 
- * @author ruoyi
+ * @author guiyun
  */
 public class SysUserOnline
 {

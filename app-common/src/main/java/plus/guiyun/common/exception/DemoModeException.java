@@ -3,7 +3,7 @@ package plus.guiyun.common.exception;
 /**
  * 演示模式异常
  * 
- * @author ruoyi
+ * @author guiyun
  */
 public class DemoModeException extends RuntimeException
 {

@@ -3,7 +3,7 @@ package plus.guiyun.common.exception.job;
 /**
  * 计划策略异常
  * 
- * @author ruoyi
+ * @author guiyun
  */
 public class TaskException extends Exception
 {

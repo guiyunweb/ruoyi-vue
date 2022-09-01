@@ -24,7 +24,7 @@ import plus.guiyun.system.service.ISysMenuService;
 /**
  * 菜单信息
  * 
- * @author ruoyi
+ * @author guiyun
  */
 @RestController
 @RequestMapping("/system/menu")

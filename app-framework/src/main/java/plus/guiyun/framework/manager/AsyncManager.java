@@ -9,7 +9,7 @@ import plus.guiyun.common.utils.spring.SpringUtils;
 /**
  * 异步任务管理器
  * 
- * @author ruoyi
+ * @author guiyun
  */
 public class AsyncManager
 {

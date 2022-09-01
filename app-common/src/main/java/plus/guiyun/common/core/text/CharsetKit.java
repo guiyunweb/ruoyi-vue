@@ -7,7 +7,7 @@ import plus.guiyun.common.utils.StringUtils;
 /**
  * 字符集工具类
  * 
- * @author ruoyi
+ * @author guiyun
  */
 public class CharsetKit
 {

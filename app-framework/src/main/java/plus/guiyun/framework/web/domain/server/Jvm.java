@@ -7,7 +7,7 @@ import plus.guiyun.common.utils.DateUtils;
 /**
  * JVM相关信息
  * 
- * @author ruoyi
+ * @author guiyun
  */
 public class Jvm
 {

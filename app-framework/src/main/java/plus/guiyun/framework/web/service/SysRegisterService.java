@@ -21,7 +21,7 @@ import plus.guiyun.system.service.ISysUserService;
 /**
  * 注册校验方法
  * 
- * @author ruoyi
+ * @author guiyun
  */
 @Component
 public class SysRegisterService

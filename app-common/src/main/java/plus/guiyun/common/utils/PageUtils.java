@@ -8,7 +8,7 @@ import plus.guiyun.common.utils.sql.SqlUtil;
 /**
  * 分页工具类
  * 
- * @author ruoyi
+ * @author guiyun
  */
 public class PageUtils extends PageHelper
 {

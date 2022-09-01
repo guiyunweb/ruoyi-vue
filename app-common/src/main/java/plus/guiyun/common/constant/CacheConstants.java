@@ -3,7 +3,7 @@ package plus.guiyun.common.constant;
 /**
  * 缓存的key 常量
  * 
- * @author ruoyi
+ * @author guiyun
  */
 public class CacheConstants
 {

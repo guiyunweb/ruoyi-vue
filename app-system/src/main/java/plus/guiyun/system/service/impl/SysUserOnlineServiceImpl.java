@@ -9,7 +9,7 @@ import plus.guiyun.system.service.ISysUserOnlineService;
 /**
  * 在线用户 服务层处理
  * 
- * @author ruoyi
+ * @author guiyun
  */
 @Service
 public class SysUserOnlineServiceImpl implements ISysUserOnlineService

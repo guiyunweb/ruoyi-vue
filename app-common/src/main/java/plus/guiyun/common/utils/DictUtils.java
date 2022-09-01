@@ -11,7 +11,7 @@ import plus.guiyun.common.utils.spring.SpringUtils;
 /**
  * 字典工具类
  * 
- * @author ruoyi
+ * @author guiyun
  */
 public class DictUtils
 {

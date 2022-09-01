@@ -26,7 +26,7 @@ import plus.guiyun.system.service.ISysUserOnlineService;
 /**
  * 在线用户监控
  * 
- * @author ruoyi
+ * @author guiyun
  */
 @RestController
 @RequestMapping("/monitor/online")

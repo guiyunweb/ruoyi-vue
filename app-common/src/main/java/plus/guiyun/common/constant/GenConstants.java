@@ -3,7 +3,7 @@ package plus.guiyun.common.constant;
 /**
  * 代码生成通用常量
  * 
- * @author ruoyi
+ * @author guiyun
  */
 public class GenConstants
 {

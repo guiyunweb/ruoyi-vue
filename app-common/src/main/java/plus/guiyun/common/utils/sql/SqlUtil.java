@@ -6,7 +6,7 @@ import plus.guiyun.common.utils.StringUtils;
 /**
  * sql操作工具类
  * 
- * @author ruoyi
+ * @author guiyun
  */
 public class SqlUtil
 {

@@ -16,7 +16,7 @@ import plus.guiyun.framework.interceptor.RepeatSubmitInterceptor;
 /**
  * 通用配置
  * 
- * @author ruoyi
+ * @author guiyun
  */
 @Configuration
 public class ResourcesConfig implements WebMvcConfigurer

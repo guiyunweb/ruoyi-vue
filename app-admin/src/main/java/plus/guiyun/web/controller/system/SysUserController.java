@@ -36,7 +36,7 @@ import plus.guiyun.system.service.ISysUserService;
 /**
  * 用户信息
  * 
- * @author ruoyi
+ * @author guiyun
  */
 @RestController
 @RequestMapping("/system/user")

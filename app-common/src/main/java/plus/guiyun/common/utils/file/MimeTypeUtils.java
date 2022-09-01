@@ -3,7 +3,7 @@ package plus.guiyun.common.utils.file;
 /**
  * 媒体类型工具类
  * 
- * @author ruoyi
+ * @author guiyun
  */
 public class MimeTypeUtils
 {

@@ -24,7 +24,7 @@ import plus.guiyun.system.service.ISysDeptService;
 /**
  * 部门管理 服务实现
  * 
- * @author ruoyi
+ * @author guiyun
  */
 @Service
 public class SysDeptServiceImpl implements ISysDeptService

@@ -27,7 +27,7 @@ import plus.guiyun.system.service.ISysUserService;
 /**
  * 个人信息 业务处理
  * 
- * @author ruoyi
+ * @author guiyun
  */
 @RestController
 @RequestMapping("/system/user/profile")

@@ -22,7 +22,7 @@ import plus.guiyun.system.service.ISysOperLogService;
 /**
  * 操作日志记录
  * 
- * @author ruoyi
+ * @author guiyun
  */
 @RestController
 @RequestMapping("/monitor/operlog")

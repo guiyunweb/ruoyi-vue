@@ -3,7 +3,7 @@ package plus.guiyun.common.core.domain.model;
 /**
  * 用户登录对象
  * 
- * @author ruoyi
+ * @author guiyun
  */
 public class LoginBody
 {

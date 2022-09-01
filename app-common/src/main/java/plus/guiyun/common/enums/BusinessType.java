@@ -3,7 +3,7 @@ package plus.guiyun.common.enums;
 /**
  * 业务操作类型
  * 
- * @author ruoyi
+ * @author guiyun
  */
 public enum BusinessType
 {

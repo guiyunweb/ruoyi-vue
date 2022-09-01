@@ -12,7 +12,7 @@ import plus.guiyun.common.utils.http.HttpUtils;
 /**
  * 获取地址类
  * 
- * @author ruoyi
+ * @author guiyun
  */
 public class AddressUtils
 {

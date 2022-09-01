@@ -3,7 +3,7 @@ package plus.guiyun.common.utils;
 /**
  * 处理并记录日志文件
  * 
- * @author ruoyi
+ * @author guiyun
  */
 public class LogUtils
 {

@@ -8,7 +8,7 @@ import plus.guiyun.common.utils.StringUtils;
 /**
  * 获取IP方法
  * 
- * @author ruoyi
+ * @author guiyun
  */
 public class IpUtils
 {

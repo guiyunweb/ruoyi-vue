@@ -5,7 +5,7 @@ import plus.guiyun.common.utils.Arith;
 /**
  * 內存相关信息
  * 
- * @author ruoyi
+ * @author guiyun
  */
 public class Mem
 {

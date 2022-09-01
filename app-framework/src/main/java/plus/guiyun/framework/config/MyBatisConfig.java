@@ -27,7 +27,7 @@ import plus.guiyun.common.utils.StringUtils;
 /**
  * Mybatis支持*匹配扫描包
  * 
- * @author ruoyi
+ * @author guiyun
  */
 @Configuration
 public class MyBatisConfig

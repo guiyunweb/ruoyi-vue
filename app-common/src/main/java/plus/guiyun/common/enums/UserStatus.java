@@ -3,7 +3,7 @@ package plus.guiyun.common.enums;
 /**
  * 用户状态
  * 
- * @author ruoyi
+ * @author guiyun
  */
 public enum UserStatus
 {

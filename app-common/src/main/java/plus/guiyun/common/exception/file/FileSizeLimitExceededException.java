@@ -3,7 +3,7 @@ package plus.guiyun.common.exception.file;
 /**
  * 文件名大小限制异常类
  * 
- * @author ruoyi
+ * @author guiyun
  */
 public class FileSizeLimitExceededException extends FileException
 {

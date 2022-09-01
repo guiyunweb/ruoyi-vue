@@ -6,7 +6,7 @@ import plus.guiyun.system.domain.SysOperLog;
 /**
  * 操作日志 服务层
  * 
- * @author ruoyi
+ * @author guiyun
  */
 public interface ISysOperLogService
 {

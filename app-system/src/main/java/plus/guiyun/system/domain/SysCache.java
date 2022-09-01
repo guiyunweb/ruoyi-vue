@@ -5,7 +5,7 @@ import plus.guiyun.common.utils.StringUtils;
 /**
  * 缓存信息
  * 
- * @author ruoyi
+ * @author guiyun
  */
 public class SysCache
 {

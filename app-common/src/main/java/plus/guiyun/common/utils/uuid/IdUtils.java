@@ -3,7 +3,7 @@ package plus.guiyun.common.utils.uuid;
 /**
  * ID生成器工具类
  * 
- * @author ruoyi
+ * @author guiyun
  */
 public class IdUtils
 {

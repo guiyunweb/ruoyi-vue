@@ -30,7 +30,7 @@ import plus.guiyun.system.service.ISysUserService;
 /**
  * 登录校验方法
  * 
- * @author ruoyi
+ * @author guiyun
  */
 @Component
 public class SysLoginService

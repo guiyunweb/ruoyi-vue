@@ -3,7 +3,7 @@ package plus.guiyun.common.exception;
 /**
  * 全局异常
  * 
- * @author ruoyi
+ * @author guiyun
  */
 public class GlobalException extends RuntimeException
 {

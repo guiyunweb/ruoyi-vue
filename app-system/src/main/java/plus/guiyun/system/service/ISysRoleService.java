@@ -8,7 +8,7 @@ import plus.guiyun.system.domain.SysUserRole;
 /**
  * 角色业务层
  * 
- * @author ruoyi
+ * @author guiyun
  */
 public interface ISysRoleService
 {

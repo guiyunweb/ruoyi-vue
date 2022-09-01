@@ -18,7 +18,7 @@ import plus.guiyun.common.utils.StringUtils;
 /**
  * 全局异常处理器
  * 
- * @author ruoyi
+ * @author guiyun
  */
 @RestControllerAdvice
 public class GlobalExceptionHandler

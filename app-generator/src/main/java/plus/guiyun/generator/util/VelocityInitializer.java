@@ -7,7 +7,7 @@ import plus.guiyun.common.constant.Constants;
 /**
  * VelocityEngine工厂
  * 
- * @author ruoyi
+ * @author guiyun
  */
 public class VelocityInitializer
 {

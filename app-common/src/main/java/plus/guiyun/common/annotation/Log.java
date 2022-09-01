@@ -11,7 +11,7 @@ import plus.guiyun.common.enums.OperatorType;
 /**
  * 自定义操作日志记录注解
  * 
- * @author ruoyi
+ * @author guiyun
  *
  */
 @Target({ ElementType.PARAMETER, ElementType.METHOD })

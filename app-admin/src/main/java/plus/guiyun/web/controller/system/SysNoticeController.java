@@ -23,7 +23,7 @@ import plus.guiyun.system.service.ISysNoticeService;
 /**
  * 公告 信息操作处理
  * 
- * @author ruoyi
+ * @author guiyun
  */
 @RestController
 @RequestMapping("/system/notice")

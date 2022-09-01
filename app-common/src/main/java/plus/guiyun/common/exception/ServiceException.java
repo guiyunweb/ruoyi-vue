@@ -3,7 +3,7 @@ package plus.guiyun.common.exception;
 /**
  * 业务异常
  * 
- * @author ruoyi
+ * @author guiyun
  */
 public final class ServiceException extends RuntimeException
 {

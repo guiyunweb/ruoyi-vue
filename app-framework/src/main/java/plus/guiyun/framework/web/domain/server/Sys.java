@@ -3,7 +3,7 @@ package plus.guiyun.framework.web.domain.server;
 /**
  * 系统相关信息
  * 
- * @author ruoyi
+ * @author guiyun
  */
 public class Sys
 {

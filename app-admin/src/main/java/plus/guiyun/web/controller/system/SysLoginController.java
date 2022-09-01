@@ -20,7 +20,7 @@ import plus.guiyun.system.service.ISysMenuService;
 /**
  * 登录验证
  * 
- * @author ruoyi
+ * @author guiyun
  */
 @RestController
 public class SysLoginController

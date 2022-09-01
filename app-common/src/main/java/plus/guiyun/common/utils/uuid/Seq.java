@@ -5,7 +5,7 @@ import plus.guiyun.common.utils.DateUtils;
 import plus.guiyun.common.utils.StringUtils;
 
 /**
- * @author ruoyi 序列生成类
+ * @author guiyun 序列生成类
  */
 public class Seq
 {

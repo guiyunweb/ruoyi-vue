@@ -13,7 +13,7 @@ import plus.guiyun.common.core.domain.BaseEntity;
 /**
  * 部门表 sys_dept
  * 
- * @author ruoyi
+ * @author guiyun
  */
 public class SysDept extends BaseEntity
 {

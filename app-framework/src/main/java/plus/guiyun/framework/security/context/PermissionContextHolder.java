@@ -7,7 +7,7 @@ import plus.guiyun.common.core.text.Convert;
 /**
  * 权限信息
  * 
- * @author ruoyi
+ * @author guiyun
  */
 public class PermissionContextHolder
 {

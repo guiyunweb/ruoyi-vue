@@ -35,7 +35,7 @@ import plus.guiyun.system.service.ISysUserService;
 /**
  * 角色信息
  * 
- * @author ruoyi
+ * @author guiyun
  */
 @RestController
 @RequestMapping("/system/role")

@@ -25,7 +25,7 @@ import plus.guiyun.common.utils.StringUtils;
 /**
  * 通用http发送方法
  * 
- * @author ruoyi
+ * @author guiyun
  */
 public class HttpUtils
 {

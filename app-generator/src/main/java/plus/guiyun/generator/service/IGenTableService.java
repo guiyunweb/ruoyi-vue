@@ -7,7 +7,7 @@ import plus.guiyun.generator.domain.GenTable;
 /**
  * 业务 服务层
  * 
- * @author ruoyi
+ * @author guiyun
  */
 public interface IGenTableService
 {

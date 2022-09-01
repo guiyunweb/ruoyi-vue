@@ -23,7 +23,7 @@ import plus.guiyun.common.utils.ip.IpUtils;
 /**
  * 限流处理
  *
- * @author ruoyi
+ * @author guiyun
  */
 @Aspect
 @Component

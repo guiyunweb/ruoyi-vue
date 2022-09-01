@@ -13,7 +13,7 @@ import plus.guiyun.system.service.ISysRoleService;
 /**
  * 用户权限处理
  * 
- * @author ruoyi
+ * @author guiyun
  */
 @Component
 public class SysPermissionService

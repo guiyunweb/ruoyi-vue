@@ -15,7 +15,7 @@ import plus.guiyun.common.constant.Constants;
 /**
  * 构建可重复读取inputStream的request
  * 
- * @author ruoyi
+ * @author guiyun
  */
 public class RepeatedlyRequestWrapper extends HttpServletRequestWrapper
 {

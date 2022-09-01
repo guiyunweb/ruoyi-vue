@@ -6,7 +6,7 @@ import plus.guiyun.system.domain.SysPost;
 /**
  * 岗位信息 服务层
  * 
- * @author ruoyi
+ * @author guiyun
  */
 public interface ISysPostService
 {

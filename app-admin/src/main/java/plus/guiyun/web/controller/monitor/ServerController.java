@@ -10,7 +10,7 @@ import plus.guiyun.framework.web.domain.Server;
 /**
  * 服务器监控
  * 
- * @author ruoyi
+ * @author guiyun
  */
 @RestController
 @RequestMapping("/monitor/server")

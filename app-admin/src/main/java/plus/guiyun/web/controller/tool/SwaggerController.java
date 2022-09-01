@@ -9,7 +9,7 @@ import plus.guiyun.common.core.controller.BaseController;
 /**
  * swagger 接口
  * 
- * @author ruoyi
+ * @author guiyun
  */
 @Controller
 @RequestMapping("/tool/swagger")

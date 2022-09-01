@@ -5,7 +5,7 @@ import plus.guiyun.common.utils.StringUtils;
 /**
  * 字符串格式化
  * 
- * @author ruoyi
+ * @author guiyun
  */
 public class StrFormatter
 {

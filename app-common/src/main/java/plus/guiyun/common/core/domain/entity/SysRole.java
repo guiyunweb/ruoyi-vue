@@ -11,7 +11,7 @@ import plus.guiyun.common.core.domain.BaseEntity;
 /**
  * 角色表 sys_role
  * 
- * @author ruoyi
+ * @author guiyun
  */
 public class SysRole extends BaseEntity
 {

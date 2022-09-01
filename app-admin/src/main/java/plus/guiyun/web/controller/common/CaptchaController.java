@@ -23,7 +23,7 @@ import plus.guiyun.system.service.ISysConfigService;
 /**
  * 验证码操作处理
  * 
- * @author ruoyi
+ * @author guiyun
  */
 @RestController
 public class CaptchaController

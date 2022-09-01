@@ -3,7 +3,7 @@ package plus.guiyun.common.enums;
 /**
  * 操作人类别
  * 
- * @author ruoyi
+ * @author guiyun
  */
 public enum OperatorType
 {

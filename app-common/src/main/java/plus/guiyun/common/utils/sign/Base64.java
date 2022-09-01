@@ -3,7 +3,7 @@ package plus.guiyun.common.utils.sign;
 /**
  * Base64工具类
  * 
- * @author ruoyi
+ * @author guiyun
  */
 public final class Base64
 {

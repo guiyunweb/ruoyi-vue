@@ -15,7 +15,7 @@ import plus.guiyun.common.utils.StringUtils;
 /**
  * Filter配置
  *
- * @author ruoyi
+ * @author guiyun
  */
 @Configuration
 public class FilterConfig

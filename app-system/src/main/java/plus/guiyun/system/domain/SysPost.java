@@ -10,7 +10,7 @@ import plus.guiyun.common.core.domain.BaseEntity;
 /**
  * 岗位表 sys_post
  * 
- * @author ruoyi
+ * @author guiyun
  */
 public class SysPost extends BaseEntity
 {
