@@ -9,8 +9,8 @@ import org.springframework.stereotype.Component;
  * @author guiyun
  */
 @Component
-@ConfigurationProperties(prefix = "ruoyi")
-public class RuoYiConfig
+@ConfigurationProperties(prefix = "app")
+public class AppConfig
 {
     /** 项目名称 */
     private String name;
@@ -80,7 +80,7 @@ public class RuoYiConfig
 
     public void setProfile(String profile)
     {
-        RuoYiConfig.profile = profile;
+        AppConfig.profile = profile;
     }
 
     public static boolean isAddressEnabled()
@@ -90,7 +90,7 @@ public class RuoYiConfig
 
     public void setAddressEnabled(boolean addressEnabled)
     {
-        RuoYiConfig.addressEnabled = addressEnabled;
+        AppConfig.addressEnabled = addressEnabled;
     }
 
     public static String getCaptchaType() {
@@ -98,7 +98,7 @@ public class RuoYiConfig
     }
 
     public void setCaptchaType(String captchaType) {
-        RuoYiConfig.captchaType = captchaType;
+        AppConfig.captchaType = captchaType;
     }
 
     /**

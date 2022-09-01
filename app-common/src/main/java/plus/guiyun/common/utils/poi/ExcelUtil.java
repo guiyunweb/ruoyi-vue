@@ -70,7 +70,7 @@ import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import plus.guiyun.common.annotation.Excel;
 import plus.guiyun.common.annotation.Excels;
-import plus.guiyun.common.config.RuoYiConfig;
+import plus.guiyun.common.config.AppConfig;
 import plus.guiyun.common.core.domain.AjaxResult;
 import plus.guiyun.common.core.text.Convert;
 import plus.guiyun.common.exception.UtilException;
@@ -1260,7 +1260,7 @@ public class ExcelUtil<T>
      */
     public String getAbsoluteFile(String filename)
     {
-        String downloadPath = RuoYiConfig.getDownloadPath() + filename;
+        String downloadPath = AppConfig.getDownloadPath() + filename;
         File desc = new File(downloadPath);
         if (!desc.getParentFile().exists())
         {

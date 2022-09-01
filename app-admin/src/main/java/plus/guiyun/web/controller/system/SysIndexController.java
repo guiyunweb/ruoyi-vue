@@ -3,7 +3,7 @@ package plus.guiyun.web.controller.system;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
-import plus.guiyun.common.config.RuoYiConfig;
+import plus.guiyun.common.config.AppConfig;
 import plus.guiyun.common.utils.StringUtils;
 
 /**
@@ -16,7 +16,7 @@ public class SysIndexController
 {
     /** 系统基础配置 */
     @Autowired
-    private RuoYiConfig ruoyiConfig;
+    private AppConfig ruoyiConfig;
 
     /**
      * 访问首页，提示语

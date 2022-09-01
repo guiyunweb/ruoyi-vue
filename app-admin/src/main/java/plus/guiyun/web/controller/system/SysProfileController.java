@@ -10,7 +10,7 @@ import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
 import org.springframework.web.multipart.MultipartFile;
 import plus.guiyun.common.annotation.Log;
-import plus.guiyun.common.config.RuoYiConfig;
+import plus.guiyun.common.config.AppConfig;
 import plus.guiyun.common.constant.UserConstants;
 import plus.guiyun.common.core.controller.BaseController;
 import plus.guiyun.common.core.domain.AjaxResult;
@@ -128,7 +128,7 @@ public class SysProfileController extends BaseController
         if (!file.isEmpty())
         {
             LoginUser loginUser = getLoginUser();
-            String avatar = FileUploadUtils.upload(RuoYiConfig.getAvatarPath(), file, MimeTypeUtils.IMAGE_EXTENSION);
+            String avatar = FileUploadUtils.upload(AppConfig.getAvatarPath(), file, MimeTypeUtils.IMAGE_EXTENSION);
             if (userService.updateUserAvatar(loginUser.getUsername(), avatar))
             {
                 AjaxResult ajax = AjaxResult.success();

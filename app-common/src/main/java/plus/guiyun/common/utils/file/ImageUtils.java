@@ -9,7 +9,7 @@ import java.util.Arrays;
 import org.apache.poi.util.IOUtils;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
-import plus.guiyun.common.config.RuoYiConfig;
+import plus.guiyun.common.config.AppConfig;
 import plus.guiyun.common.constant.Constants;
 import plus.guiyun.common.utils.StringUtils;
 
@@ -79,7 +79,7 @@ public class ImageUtils
             else
             {
                 // 本机地址
-                String localPath = RuoYiConfig.getProfile();
+                String localPath = AppConfig.getProfile();
                 String downloadPath = localPath + StringUtils.substringAfter(url, Constants.RESOURCE_PREFIX);
                 in = new FileInputStream(downloadPath);
             }
