@@ -9,7 +9,7 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>ruoyi-system</artifactId>
+    <artifactId>app-system</artifactId>
 
     <description>
         system系统模块
@@ -19,8 +19,8 @@
 
         <!-- 通用工具-->
         <dependency>
-            <groupId>com.ruoyi</groupId>
-            <artifactId>ruoyi-common</artifactId>
+            <groupId>plus.guiyun</groupId>
+            <artifactId>app-common</artifactId>
         </dependency>
 
     </dependencies>

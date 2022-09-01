@@ -10,7 +10,7 @@
 
     
     <properties>
-        <ruoyi.version>3.8.3</ruoyi.version>
+        <app.version>3.8.3</app.version>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
         <java.version>1.8</java.version>
@@ -150,37 +150,37 @@
 
             <!-- 定时任务-->
             <dependency>
-                <groupId>com.ruoyi</groupId>
-                <artifactId>ruoyi-quartz</artifactId>
-                <version>${ruoyi.version}</version>
+                <groupId>plus.guiyun</groupId>
+                <artifactId>app-quartz</artifactId>
+                <version>${app.version}</version>
             </dependency>
 
             <!-- 代码生成-->
             <dependency>
-                <groupId>com.ruoyi</groupId>
-                <artifactId>ruoyi-generator</artifactId>
-                <version>${ruoyi.version}</version>
+                <groupId>plus.guiyun</groupId>
+                <artifactId>app-generator</artifactId>
+                <version>${app.version}</version>
             </dependency>
 
             <!-- 核心模块-->
             <dependency>
-                <groupId>com.ruoyi</groupId>
-                <artifactId>ruoyi-framework</artifactId>
-                <version>${ruoyi.version}</version>
+                <groupId>plus.guiyun</groupId>
+                <artifactId>app-framework</artifactId>
+                <version>${app.version}</version>
             </dependency>
 
             <!-- 系统模块-->
             <dependency>
-                <groupId>com.ruoyi</groupId>
-                <artifactId>ruoyi-system</artifactId>
-                <version>${ruoyi.version}</version>
+                <groupId>plus.guiyun</groupId>
+                <artifactId>app-system</artifactId>
+                <version>${app.version}</version>
             </dependency>
 
             <!-- 通用工具-->
             <dependency>
-                <groupId>com.ruoyi</groupId>
-                <artifactId>ruoyi-common</artifactId>
-                <version>${ruoyi.version}</version>
+                <groupId>plus.guiyun</groupId>
+                <artifactId>app-common</artifactId>
+                <version>${app.version}</version>
             </dependency>
 
         </dependencies>

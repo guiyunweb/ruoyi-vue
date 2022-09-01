@@ -45,20 +45,20 @@
 
         <!-- 核心模块-->
         <dependency>
-            <groupId>com.ruoyi</groupId>
-            <artifactId>ruoyi-framework</artifactId>
+            <groupId>plus.guiyun</groupId>
+            <artifactId>app-framework</artifactId>
         </dependency>
 
         <!-- 定时任务-->
         <dependency>
-            <groupId>com.ruoyi</groupId>
-            <artifactId>ruoyi-quartz</artifactId>
+            <groupId>plus.guiyun</groupId>
+            <artifactId>app-quartz</artifactId>
         </dependency>
 
         <!-- 代码生成-->
         <dependency>
-            <groupId>com.ruoyi</groupId>
-            <artifactId>ruoyi-generator</artifactId>
+            <groupId>plus.guiyun</groupId>
+            <artifactId>app-generator</artifactId>
         </dependency>
 
     </dependencies>

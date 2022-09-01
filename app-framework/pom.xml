@@ -9,7 +9,7 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>ruoyi-framework</artifactId>
+    <artifactId>app-framework</artifactId>
 
     <description>
         framework框架核心
@@ -55,8 +55,8 @@
 
         <!-- 系统模块-->
         <dependency>
-            <groupId>com.ruoyi</groupId>
-            <artifactId>ruoyi-system</artifactId>
+            <groupId>plus.guiyun</groupId>
+            <artifactId>app-system</artifactId>
         </dependency>
 
     </dependencies>
